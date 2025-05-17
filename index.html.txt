@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Customize Your Tesla</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      text-align: center;
+      padding: 50px;
+    }
+    .btn {
+      background-color: #cc0000;
+      color: white;
+      padding: 15px 30px;
+      text-decoration: none;
+      font-size: 20px;
+      border-radius: 8px;
+    }
+    .btn:hover {
+      background-color: #990000;
+    }
+  </style>
+</head>
+<body>
+  <h1>Ready to Build Your Tesla?</h1>
+  <p>Click below to customize your dream car:</p>
+  <a class="btn" href="https://www.tesla.com/model3/design" target="_blank">
+    Customize Your Tesla
+  </a>
+</body>
+</html>
